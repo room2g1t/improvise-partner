@@ -16,3 +16,4 @@ improvise partner based on audio input using stochastic methods
   <img width="757" alt="diagram" src="https://user-images.githubusercontent.com/118258469/212566667-2a30f732-705d-4a15-afab-c18af16b8b5e.png">
 
 reference: https://www.youtube.com/watch?v=bqF9w9TTfeo
+testing demo: https://vimeo.com/790224923
